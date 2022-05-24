@@ -1,0 +1,58 @@
+TASK 1A
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 
+
+TASK 1B
+2.0 4.0 6.0 8.0 10.0 
+
+TASK 1C
+1.0 3.0 5.0 
+6.0 8.0 10.0 
+
+TASK 2A
+214
+
+TASK 2B
+21.0 33.0 63.0 81.0 93.0 
+
+TASK 2C
+471.0
+
+TASK 3A
+40.0
+
+TASK 3B
+100.0
+
+TASK 3C
+68.1
+
+TASK 3D
+326.69000000000005
+
+TASK 3E
+18.074567767999323
+
+TASK 3F
+60.0
+
+TASK 4A
+Han Chewbacca Leia Yoda 
+
+TASK 4B
+Chewbacca Yoda 
+
+TASK 4C
+11
+
+TASK 5A
+DN-LD
+
+TASK 5B
+R2D2
+
+TASK 5C
+R2D2X BB-8X 
+
+TASK 5D
+c3p r2d k-2 bb- n1- dn- 
+
